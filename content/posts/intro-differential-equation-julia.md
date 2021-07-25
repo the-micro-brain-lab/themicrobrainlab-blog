@@ -11,5 +11,9 @@ tags: [ode, julia]
 
 + The basic form of an ODE:
 $$
-    u' = f(u)
+    u' = f(u).
+$$
+More specifically, $u$ is a function of the independent variable $t$, and the derivative of $u$ is a function of $u$ itself and other parameter $p$:
+$$
+    \frac{du}{dt} = f(u, p, t).
 $$
