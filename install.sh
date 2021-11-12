@@ -1,5 +1,5 @@
 # install hugo
 
-snap install hugo --channel=extended
+sudo apt install hugo
 
 
