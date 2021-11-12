@@ -10,4 +10,4 @@ tasks:
       echo 'INSTALLING'
       bash install.sh
   - name: preview
-      command: hugo server -D
+    command: hugo server -D
