@@ -6,7 +6,7 @@ This is my notes about what I am learning.
 
 ---
 
-# Setting up this webpage
+## Setting up this webpage
 
 1. Setup hugo site ( https://gohugo.io/getting-started/quick-start ).
 
@@ -34,3 +34,10 @@ This is my notes about what I am learning.
     style = "borland"
     tabWidth = 4
 ```
+
+## Basic command
+
++ Create new post:
+`
+hugo new posts/my-first-post.md
+`
