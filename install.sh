@@ -1,5 +1,5 @@
 # install hugo
 
-sudo apt install hugo
+sudo apt install -y hugo
 
 
