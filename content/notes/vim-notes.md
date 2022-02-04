@@ -1,7 +1,7 @@
 ---
 title: "Vim Notes"
 date: 2020-02-01T10:23:43+02:00
-draft: false
+draft: true
 categories: [Dev]
 tags: [vim]
 ---
