@@ -1,6 +1,6 @@
-baseURL = "https://minhvu.netlify.app"
+baseURL = "https://themicrobrainlab.netlify.app"
 languageCode = "en-us"
-title = "My Learning Notes"
+title = "The µ-brain Lab"
 theme = "hugo-xmin"
 
 [markup]
@@ -42,5 +42,5 @@ theme = "hugo-xmin"
 
 
 [params]
-    footer = """&copy; [Minh](https://github.com/vu-minh) 2021"""
+    footer = """&copy; [Minh @ The µ-brain Lab](https://github.com/vu-minh) 2025"""
 

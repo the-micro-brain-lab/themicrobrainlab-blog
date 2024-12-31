@@ -1,8 +1,7 @@
 # Me
 
-I'm Minh, from Viet Nam.
-
-This is my notes about what I am learning.
+I'm Minh, a quantitative researcher @ [The µ-brain Lab](https://themicrobrainlab.netlify.app).
+This site contains somes notes of my journey.
 
 ---
 
