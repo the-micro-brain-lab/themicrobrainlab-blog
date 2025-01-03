@@ -42,5 +42,5 @@ theme = "hugo-xmin"
 
 
 [params]
-    footer = """&copy; [Minh @ The µ-brain Lab](https://github.com/vu-minh) 2025"""
+    footer = """&copy; [The Micro Brain Lab](https://github.com/the-micro-brain-lab) 2020 - 2025"""
 

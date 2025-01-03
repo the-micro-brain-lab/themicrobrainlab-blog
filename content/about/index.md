@@ -1,7 +1,7 @@
 # Me
 
-I'm Minh, a quantitative researcher @ [The µ-brain Lab](https://themicrobrainlab.netlify.app).
-This site contains somes notes of my journey.
+I found [The µ-brain Lab](https://themicrobrainlab.netlify.app) that uses micro-strategies to automate trading.
+This site contains some notes of my journey.
 
 ---
 
@@ -38,5 +38,11 @@ This site contains somes notes of my journey.
 
 + Create new post:
 `
-hugo new posts/my-first-post.md
+hugo new content content/posts/my-first-post.md
 `
+
++ Start dev server:
+`
+hugo server
+`
+use `--buildDrafts` (or `-D`) flag to include draft posts.
