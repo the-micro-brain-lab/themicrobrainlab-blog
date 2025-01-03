@@ -2,6 +2,8 @@
 title: "Fourier Series"
 date: 2022-02-07T15:30:20Z
 draft: false
+categories: [Math]
+tags: [fourier]
 summary: Summary of Fourier Series based on the lectures of Prof. Steve Bruton.
 ---
 

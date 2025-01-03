@@ -2,7 +2,9 @@
 title: "Statistic Fundamentals"
 date: 2022-02-04T15:16:36Z
 draft: true
-summary: Summary of main concepts in the StatQuest Statistic Fundamentals series.
+categories: [Statistic]
+tags: [stats, probability]
+summary: "Summary of main concepts in the StatQuest Statistic Fundamentals series."
 ---
 
 [Statistic Fundamentals series](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) - author [Josh Starmer](https://www.youtube.com/c/joshstarmer)

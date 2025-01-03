@@ -1,7 +1,10 @@
 ---
-title: "DL Attention Transformer"
+title: "Attention & Transformer"
 date: 2022-02-04T15:24:41Z
 draft: true
+categories: [Deep Learning]
+tags: [attention, transformer]
+summary: ""
 ---
 
 Summary of basic idea of Attention Mechanism and Transformer Architecture in DL/NLP.

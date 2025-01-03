@@ -4,7 +4,7 @@ date: 2020-02-01T12:01:33+02:00
 draft: false
 categories: [Dev]
 tags: [tool]
-summary: Using Remote-SSH extension in VSCode to connect to remote server.
+summary: "Using Remote-SSH extension in VSCode to connect to remote server."
 ---
 
 ## Setup
