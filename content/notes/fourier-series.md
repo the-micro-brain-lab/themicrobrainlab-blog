@@ -4,7 +4,7 @@ date: 2022-02-07T15:30:20Z
 draft: false
 categories: [Math]
 tags: [fourier]
-summary: Summary of Fourier Series based on the lectures of Prof. Steve Bruton.
+summary: "Summary of Fourier Series based on the lectures of Prof. Steve Bruton."
 ---
 
 Reference: Fourier Series Lectures of Prof. [Steve Bruton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)

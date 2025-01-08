@@ -1,11 +1,4 @@
-# Me
-
-I found [The µ-brain Lab](https://themicrobrainlab.netlify.app) that uses micro-strategies to automate trading.
-This site contains some notes of my journey.
-
----
-
-## Setting up this webpage
+## Setting up this page
 
 1. Setup hugo site ( https://gohugo.io/getting-started/quick-start ).
 
