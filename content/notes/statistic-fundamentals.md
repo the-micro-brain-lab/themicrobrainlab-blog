@@ -23,3 +23,11 @@ To know:
 + Alternative Hypothe**ses**
 
 ## p-values
+
+## Hetero-skedasticity
+![](/images/hetero-skedasticity-2.png)
+(Ref: [explanation](https://corporatefinanceinstitute.com/resources/data-science/heteroskedasticity))
+
+Hetero-skedasticity vs Homo-skedasticity:
+![](/images/hetero-skedasticity-1.png)
+(Ref: [image source](https://python.plainenglish.io/heteroscedasticity-analysis-in-time-series-data-fee51503cc0e))
